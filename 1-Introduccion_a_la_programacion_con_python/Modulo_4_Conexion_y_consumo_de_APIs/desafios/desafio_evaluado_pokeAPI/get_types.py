@@ -1,5 +1,5 @@
 from get_module import get_info
-
+from pprint import pprint
 
 def get_types_info(url):
     data = get_info(url)
@@ -7,4 +7,4 @@ def get_types_info(url):
 
 if __name__ == '__main__':
     url = 'https://pokeapi.co/api/v2/type/3/'
-    print(get_types_info(url))
+    pprint(get_types_info(url))

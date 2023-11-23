@@ -1,6 +1,7 @@
 from get_module import get_info
 from get_species_info import get_species
 from get_types import get_types_info
+from pprint import pprint
 
 def get_base_pokemon(name):
     url = f'https://pokeapi.co/api/v2/pokemon/{name}'
@@ -48,4 +49,4 @@ def get_base_pokemon(name):
 
 if __name__ == '__main__':
     name = 'charizard'
-    print(get_base_pokemon(name))
+    pprint(get_base_pokemon(name))

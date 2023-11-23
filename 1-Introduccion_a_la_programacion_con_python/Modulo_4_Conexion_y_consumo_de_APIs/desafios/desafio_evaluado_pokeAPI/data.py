@@ -1,7 +1,5 @@
 from string import Template
 
-
-
 validacion_pokemon = 'Por favor ingrese un nombre válido de algún pokemon: '
 validacion_opcion = 'Por favor ingrese una opción válida: '
 
