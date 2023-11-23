@@ -10,7 +10,7 @@ preguntas_basicas = {
                      ['alt_3', 0], 
                      ['alt_4', 0]]},
     
-'pregunta_3': {'enunciado':['Enunciado básico 3'],
+    'pregunta_3': {'enunciado':['Enunciado básico 3'],
     'alternativas': [['alt_1', 0], 
                      ['alt_2', 1], 
                      ['alt_3', 0], 
@@ -29,7 +29,7 @@ preguntas_intermedias = {
                      ['alt_3', 0], 
                      ['alt_4', 0]]},
     
-'pregunta_3': {'enunciado':['Enunciado intermedio 3'],
+    'pregunta_3': {'enunciado':['Enunciado intermedio 3'],
     'alternativas': [['alt_1', 0], 
                      ['alt_2', 1], 
                      ['alt_3', 0], 
@@ -48,7 +48,7 @@ preguntas_avanzadas = {
                      ['alt_3', 0], 
                      ['alt_4', 0]]},
     
-'pregunta_3': {'enunciado':['Enunciado avanzado 3'],
+    'pregunta_3': {'enunciado':['Enunciado avanzado 3'],
     'alternativas': [['alt_1', 0], 
                      ['alt_2', 1], 
                      ['alt_3', 0], 

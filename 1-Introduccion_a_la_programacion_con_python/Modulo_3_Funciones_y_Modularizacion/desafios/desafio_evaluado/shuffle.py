@@ -11,5 +11,5 @@ def shuffle_alt(pregunta):
 if __name__ == '__main__':
     # si se ejecuta el  programa varias veces las alternativas debieran aparecer en distinto orden
     print(shuffle_alt(p.pool_preguntas['basicas']['pregunta_1'])) 
-    # a modo de ejemplo
+    # a modo de ejemplo, podriamos obtener lo siguiente:
     #[['alt_1', 0], ['alt_3', 0], ['alt_2', 1], ['alt_4', 0]]

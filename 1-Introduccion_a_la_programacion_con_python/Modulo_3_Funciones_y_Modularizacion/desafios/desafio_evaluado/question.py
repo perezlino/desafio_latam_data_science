@@ -27,7 +27,7 @@ def choose_q(dificultad):
     return pregunta['enunciado'], alternativas
 
 if __name__ == '__main__':
-    # si ejecuto el programa, las preguntas cambian de orden, pero nunca debieran repetirse
+    # si ejecuto el programa, las preguntas cambian de orden, pero nunca debiesen repetirse
     pregunta, alternativas = choose_q('basicas')
     print(f'El enunciado es: {pregunta}')
     print(f'Las alternativas son: {alternativas}')

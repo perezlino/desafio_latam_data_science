@@ -5,6 +5,7 @@ def verificar(alternativas, eleccion):
     #devuelve el índice de elección dada
     eleccion = ['a', 'b', 'c','d'].index(eleccion) #index es la función que va a asignar un numero de indice a cada posición de la lista
     correcto = 1 #se coloca 1 porque es el número que se designó para marcar la alternativa correcta, el cero será incorrecto
+    
     # generar lógica para determinar respuestas correctas
     ##########################################################################################
     if (alternativas[eleccion][1] == 1):
