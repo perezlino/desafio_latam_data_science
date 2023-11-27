@@ -1,0 +1,6 @@
+letra,valor,condicion
+a,2,True
+b,4,False
+a,6,True
+c,2,True
+e,1,False
